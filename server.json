@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Food",
+      "price": 40,
+      "createdAt": "2022-09-17 12:00:00"
+    },
+    {
+      "id": 2,
+      "description": "Mac",
+      "type": "outcome",
+      "category": "Health",
+      "price": 150,
+      "createdAt": "2022-09-26 12:00:00"
+    },
+    {
+      "id": 3,
+      "description": "Salario amor",
+      "type": "income",
+      "category": "Salary",
+      "price": 3000,
+      "createdAt": "2023-04-01 12:00:00"
+    },
+    {
+      "description": "esfiha",
+      "price": 70,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2023-03-16T19:32:34.933Z",
+      "id": 4
+    }
+  ]
+}
